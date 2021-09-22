@@ -1,0 +1,50 @@
+{
+	"Customer": [
+		{
+			"user_name": "alex",
+			"rented_cars": [
+				"sonata01",
+				"sonata003"
+			]
+		},
+		{
+			"user_name": "judy",
+			"rented_cars": [
+				"tucson01",
+				"tucson003"
+			]
+		},
+		{
+			"user_name": "bob",
+			"rented_cars": [
+				"bongo007"
+			]
+		},
+		{
+			"user_name": "joe",
+			"rented_cars": []
+		},
+		{
+			"user_name": "rob",
+			"rented_cars": []
+		},
+		{
+			"user_name": "rick",
+			"rented_cars": [
+				"tesla01",
+				"tesla005"
+			]
+		},
+		{
+			"user_name": "morty",
+			"rented_cars": []
+		},
+		{
+			"user_name": "smith",
+			"rented_cars": [
+				"sonata03",
+				"tesla02"
+			]
+		}
+	]
+}

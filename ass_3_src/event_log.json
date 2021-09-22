@@ -1,0 +1,426 @@
+{
+	"Events": [
+		{
+			"date": "\"2021-05-01 04:36\"",
+			"car_id": "sonata01",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-05-01 04:36\"",
+			"car_id": "tucson01",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-05-01 04:36\"",
+			"car_id": "tesla01",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-05-01 04:36\"",
+			"car_id": "bongo01",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-05-01 04:36\"",
+			"car_id": "sonata02",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-05-01 04:36\"",
+			"car_id": "tucson02",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-05-03 04:36\"",
+			"car_id": "tesla02",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-05-04 04:36\"",
+			"car_id": "bongo02",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-05-05 04:36\"",
+			"car_id": "sonata03",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-05-10 04:36\"",
+			"car_id": "tucson03",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-05-11 04:36\"",
+			"car_id": "sonata01",
+			"event_type": "rental",
+			"user": "alex"
+		},
+		{
+			"date": "\"2021-05-12 04:36\"",
+			"car_id": "tucson01",
+			"event_type": "rental",
+			"user": "judy"
+		},
+		{
+			"date": "\"2021-05-14 04:36\"",
+			"car_id": "tesla01",
+			"event_type": "rental",
+			"user": "rick"
+		},
+		{
+			"date": "\"2021-05-15 04:36\"",
+			"car_id": "bongo01",
+			"event_type": "rental",
+			"user": "bob"
+		},
+		{
+			"date": "\"2021-05-15 04:36\"",
+			"car_id": "sonata02",
+			"event_type": "rental",
+			"user": "joe"
+		},
+		{
+			"date": "\"2021-05-16 04:36\"",
+			"car_id": "tucson02",
+			"event_type": "rental",
+			"user": "rob"
+		},
+		{
+			"date": "\"2021-05-18 04:36\"",
+			"car_id": "tucson03",
+			"event_type": "rental",
+			"user": "morty"
+		},
+		{
+			"date": "\"2021-05-19 04:36\"",
+			"car_id": "sonata03",
+			"event_type": "rental",
+			"user": "smith"
+		},
+		{
+			"date": "\"2021-05-19 04:36\"",
+			"car_id": "tesla02",
+			"event_type": "rental",
+			"user": "smith"
+		},
+		{
+			"date": "\"2021-05-19 04:36\"",
+			"car_id": "sonata01",
+			"event_type": "move",
+			"distance": 200,
+			"fe": 12.0,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-19 04:36\"",
+			"car_id": "tucson01",
+			"event_type": "move",
+			"distance": 90,
+			"fe": 10.0,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-19 04:36\"",
+			"car_id": "tesla01",
+			"event_type": "move",
+			"distance": 100,
+			"fe": 1.0,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-19 04:36\"",
+			"car_id": "bongo01",
+			"event_type": "move",
+			"distance": 50,
+			"fe": 11.0,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-19 04:36\"",
+			"car_id": "sonata02",
+			"event_type": "move",
+			"distance": 10,
+			"fe": 12.0,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-19 04:36\"",
+			"car_id": "tucson02",
+			"event_type": "move",
+			"distance": 100,
+			"fe": 10.0,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-19 04:36\"",
+			"car_id": "tesla02",
+			"event_type": "move",
+			"distance": 135.0,
+			"fe": 1.0,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-20 04:36\"",
+			"car_id": "bongo02",
+			"event_type": "move",
+			"distance": 100,
+			"fe": 11.0,
+			"rented": false
+		},
+		{
+			"date": "\"2021-05-20 04:36\"",
+			"car_id": "sonata03",
+			"event_type": "move",
+			"distance": 20,
+			"fe": 12.0,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-20 04:36\"",
+			"car_id": "tucson03",
+			"event_type": "move",
+			"distance": 10,
+			"fe": 10.0,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-20 04:36\"",
+			"car_id": "sonata01",
+			"event_type": "fuel",
+			"amount": 16.66666666666667,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-20 04:36\"",
+			"car_id": "tucson01",
+			"event_type": "fuel",
+			"amount": 51.0,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-20 04:36\"",
+			"car_id": "tesla01",
+			"event_type": "fuel",
+			"amount": 430.0,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-20 04:36\"",
+			"car_id": "bongo01",
+			"event_type": "fuel",
+			"amount": 4.545454545454547,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-20 04:36\"",
+			"car_id": "sonata02",
+			"event_type": "fuel",
+			"amount": 0.8333333333333357,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-25 04:36\"",
+			"car_id": "tucson02",
+			"event_type": "fuel",
+			"amount": 10.0,
+			"rented": true
+		},
+		{
+			"date": "\"2021-06-10 04:36\"",
+			"car_id": "tesla02",
+			"event_type": "fuel",
+			"amount": 450,
+			"rented": true
+		},
+		{
+			"date": "\"2021-05-25 04:36\"",
+			"car_id": "bongo02",
+			"event_type": "fuel",
+			"amount": 9.090909090909094,
+			"rented": false
+		},
+		{
+			"date": "\"2021-05-30 04:36\"",
+			"car_id": "sonata03",
+			"event_type": "fuel",
+			"amount": 1.6666666666666644,
+			"rented": true
+		},
+		{
+			"date": "\"2021-06-08 04:36\"",
+			"car_id": "tucson03",
+			"event_type": "fuel",
+			"amount": 43.0,
+			"rented": true
+		},
+		{
+			"date": "\"2021-06-01 04:36\"",
+			"car_id": "sonata01",
+			"event_type": "move",
+			"distance": 20,
+			"fe": 11.4,
+			"rented": true
+		},
+		{
+			"date": "\"2021-06-01 04:36\"",
+			"car_id": "tucson01",
+			"event_type": "move",
+			"distance": 400,
+			"fe": 9.7,
+			"rented": true
+		},
+		{
+			"date": "\"2021-06-01 04:36\"",
+			"car_id": "tesla01",
+			"event_type": "move",
+			"distance": 20,
+			"fe": 0.96,
+			"rented": true
+		},
+		{
+			"date": "\"2021-06-05 04:36\"",
+			"car_id": "bongo01",
+			"event_type": "move",
+			"distance": 80,
+			"fe": 10.214285714285714,
+			"rented": true
+		},
+		{
+			"date": "\"2021-06-07 04:36\"",
+			"car_id": "sonata02",
+			"event_type": "move",
+			"distance": 50,
+			"fe": 10.8,
+			"rented": true
+		},
+		{
+			"date": "\"2021-06-07 04:36\"",
+			"car_id": "tucson02",
+			"event_type": "move",
+			"distance": 60,
+			"fe": 9.3,
+			"rented": true
+		},
+		{
+			"date": "\"2021-06-07 04:36\"",
+			"car_id": "tesla02",
+			"event_type": "move",
+			"distance": 20,
+			"fe": 0.98,
+			"rented": true
+		},
+		{
+			"date": "\"2021-06-07 04:36\"",
+			"car_id": "bongo02",
+			"event_type": "move",
+			"distance": 200,
+			"fe": 10.371428571428572,
+			"rented": false
+		},
+		{
+			"date": "\"2021-06-07 04:36\"",
+			"car_id": "sonata03",
+			"event_type": "move",
+			"distance": 220,
+			"fe": 11.4,
+			"rented": true
+		},
+		{
+			"date": "\"2021-06-08 04:36\"",
+			"car_id": "tucson03",
+			"event_type": "move",
+			"distance": 130,
+			"fe": 9.4,
+			"rented": true
+		},
+		{
+			"date": "\"2021-06-08 04:36\"",
+			"car_id": "bongo01",
+			"event_type": "return",
+			"user": "bob"
+		},
+		{
+			"date": "\"2021-06-08 04:36\"",
+			"car_id": "sonata02",
+			"event_type": "return",
+			"user": "joe"
+		},
+		{
+			"date": "\"2021-06-08 04:36\"",
+			"car_id": "tucson02",
+			"event_type": "return",
+			"user": "rob"
+		},
+		{
+			"date": "\"2021-06-09 04:36\"",
+			"car_id": "tucson03",
+			"event_type": "return",
+			"user": "morty"
+		},
+		{
+			"date": "\"2021-06-09 04:36\"",
+			"car_id": "bongo01",
+			"event_type": "delete"
+		},
+		{
+			"date": "\"2021-06-09 04:36\"",
+			"car_id": "sonata02",
+			"event_type": "delete"
+		},
+		{
+			"date": "\"2021-06-09 04:36\"",
+			"car_id": "tucson02",
+			"event_type": "delete"
+		},
+		{
+			"date": "\"2021-06-09 04:36\"",
+			"car_id": "tucson03",
+			"event_type": "delete"
+		},
+		{
+			"date": "\"2021-06-09 04:36\"",
+			"car_id": "tesla005",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-06-09 04:36\"",
+			"car_id": "bongo007",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-06-09 04:36\"",
+			"car_id": "sonata003",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-06-09 04:36\"",
+			"car_id": "tucson003",
+			"event_type": "add"
+		},
+		{
+			"date": "\"2021-06-09 04:36\"",
+			"car_id": "sonata003",
+			"event_type": "rental",
+			"user": "alex"
+		},
+		{
+			"date": "\"2021-06-09 04:36\"",
+			"car_id": "tucson003",
+			"event_type": "rental",
+			"user": "judy"
+		},
+		{
+			"date": "\"2021-06-10 04:36\"",
+			"car_id": "tesla005",
+			"event_type": "rental",
+			"user": "rick"
+		},
+		{
+			"date": "\"2021-06-10 04:36\"",
+			"car_id": "bongo007",
+			"event_type": "rental",
+			"user": "bob"
+		}
+	]
+}
