@@ -1,8 +1,8 @@
-## python_finals
-# car rental service with python
+# python_finals
+## car rental service with python
 
-# [car.py]Car 클래스: Fleet를 구성하는 자동차 클래스이므로 자동차에 속하는 속성과 메소드로 구성
-# 변수: 
+## [car.py]Car 클래스: Fleet를 구성하는 자동차 클래스이므로 자동차에 속하는 속성과 메소드로 구성
+### 변수: 
 -	car_id: 자동차 객체를 식별하기 위한 이름
 -	brand: 자동자 브랜드: Sonata, Tucson 등
 -	max_fuel: 최대 연료량
